@@ -1,0 +1,23 @@
+{
+  "name": "s3-thumbnail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-plugin-include-dependencies": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergoh/node-s3-thumbnail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergoh/node-s3-thumbnail/issues"
+  },
+  "homepage": "https://github.com/sergoh/node-s3-thumbnail#readme"
+}
